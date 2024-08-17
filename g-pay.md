@@ -2,6 +2,10 @@
 https://developers.google.com/pay/issuers/apis/push-provisioning/android?hl=pt-br
 https://github.com/orgs/google-pay/repositories?type=all
 https://github.com/google-pay/littlebear-web-push-provisioning
+
+https://developers.google.com/pay/issuers/apis/push-provisioning/android/support/get-help?hl=pt-br#general_questions
+
+
 #### a. Adicionar Dependência do Google Pay
 
 No arquivo `build.gradle` do módulo (geralmente `app`), adicione a dependência do

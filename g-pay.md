@@ -5,6 +5,13 @@
 No arquivo `build.gradle` do módulo (geralmente `app`), adicione a dependência do
 Google Pay:
 
+```
+repositories {
+    mavenCentral()
+    google()
+}
+```
+
 ```groovy
 dependencies {
     implementation "com.google.android.gms:play-services-wallet:18.1.0"

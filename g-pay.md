@@ -7,7 +7,6 @@ Google Pay:
 
 ```
 repositories {
-    mavenCentral()
     google()
 }
 ```

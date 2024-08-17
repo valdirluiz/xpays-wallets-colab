@@ -1,5 +1,5 @@
 ### 1. **Configuração do Projeto**
-
+https://developers.google.com/pay/issuers/apis/push-provisioning/android?hl=pt-br
 #### a. Adicionar Dependência do Google Pay
 
 No arquivo `build.gradle` do módulo (geralmente `app`), adicione a dependência do
